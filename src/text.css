@@ -1,0 +1,41 @@
+
+
+.header{
+
+  color: white;
+  font-size: 50px;
+
+
+
+}
+
+
+.p{
+  color: white;
+
+}
+
+a.social {
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+a.linkedin{
+  color: #0e76a8 ;
+
+}
+
+a.instagram{
+  color: #FD1D1D ;
+
+}
+
+a.github{
+  color: white ;
+
+}
+
+a.facebook{
+  color: #39569c  ;
+
+}
